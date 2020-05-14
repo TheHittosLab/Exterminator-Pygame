@@ -17,6 +17,8 @@ https://bit.ly/2yXPUer
 
 V1.3 - Added main character with motion, jump and wait animations.
 
+https://bit.ly/2y1cqCL
+
 ### Spanish
 Este es un juego creado con la librería Pygame de Python. Todavía se encuentra en desarrollo.
 
@@ -33,3 +35,5 @@ V1.2 - Añadido un fondo en movimiento en bucle y control de FPS.
 https://bit.ly/2yXPUer
 
 V1.3 - Añadido el personaje principal con animaciones de movimiento, salto y espera.
+
+https://bit.ly/2y1cqCL
