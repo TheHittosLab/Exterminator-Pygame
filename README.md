@@ -19,6 +19,13 @@ V1.3 - Added main character with motion, jump and wait animations.
 
 https://bit.ly/2y1cqCL
 
+V1.4 - Added the audio system to the game.
+The player can control the background music (raise, lower, mute and turn the sound to maximum with keys).
+Vectors have been added for the sound keys.
+Background music has been added to the game.
+
+https://bit.ly/2ZbXOvB
+
 ### Spanish
 Este es un juego creado con la librería Pygame de Python. Todavía se encuentra en desarrollo.
 
@@ -37,3 +44,10 @@ https://bit.ly/2yXPUer
 V1.3 - Añadido el personaje principal con animaciones de movimiento, salto y espera.
 
 https://bit.ly/2y1cqCL
+
+V1.4 - Añadido el sistema de audio al juego. 
+El jugador puede controlar la música de fondo (subir, bajar, silenciar y poner el sonido al máximo con teclas).
+Se han añadido vectores para las teclas de sonido.
+Se ha añadido una música de fondo al juego.
+
+https://bit.ly/2ZbXOvB
